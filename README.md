@@ -1,2 +1,2 @@
-# dart-package-test
-A test repository for distributing dart packages
+# dart-package-demo
+A demo repository for distributing dart packages
